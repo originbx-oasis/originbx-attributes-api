@@ -1,4 +1,4 @@
-<img src="artwork/OriginBX_OASIS_logo_blk_1.png" width="200">
+<img src="https://github.com/originbx-oasis/oasis-open-project/blob/main/artwork/OriginBX_OASIS_logo_blk_1.png" width="200">
 
 # Contributing
 
@@ -37,4 +37,4 @@ When you first submit a pull request, CLA Assistant, a bot, will check to see wh
 
 ## Feedback
 
-Questions or comments about this project's work may be composed as GitHub issues or comments or may be directed to the project's general email list [at] (mailto:origin-bx-oasis@lists.oasis-open-projects.org). General questions about OASIS Open Projects may be directed to OASIS staff at op-admin@lists.oasis-open-projects.org
+Questions or comments about this project's work may be composed as GitHub issues or comments or may be directed to the [project's general email list](mailto:origin-bx-oasis@lists.oasis-open-projects.org). General questions about OASIS Open Projects may be directed to OASIS staff at op-admin@lists.oasis-open-projects.org
