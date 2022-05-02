@@ -1,7 +1,8 @@
 
 
-# originbx-attributes-api
-originbx-attributes-api is an [OASIS Open Project](https://oasis-open-projects.org/) for managing the list of attributes
+# README
+
+The originbx-attributes-api is an part of the work for the [OriginBX OASIS Open Project](https://originbx-oasis.org/) for managing the list of attributes for cross border tax and trade attestations.
 
 ## Getting Started
 
